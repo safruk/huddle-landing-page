@@ -300,8 +300,10 @@ footer p {
   }
 
   .btn {
+   position: relative;
+    width: 50%;
     text-align: center;
-    left: 20%;
+    left: 15%;
   }
 
   .big-heading {
